@@ -487,3 +487,7 @@ a, a:hover, a:focus, a:active, a.active {
     outline: 0;
     color: #FFA562;
 }
+
+.black {
+    background-color: black;
+}
