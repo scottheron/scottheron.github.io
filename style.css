@@ -491,3 +491,7 @@ a, a:hover, a:focus, a:active, a.active {
 .black {
     background-color: black;
 }
+
+p #emailOnWhite {
+    color: black;
+}
